@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:SE-0163StringRevision.playground">
+   </FileRef>
+   <FileRef
       location = "group:SE-0172Range.playground">
    </FileRef>
 </Workspace>
