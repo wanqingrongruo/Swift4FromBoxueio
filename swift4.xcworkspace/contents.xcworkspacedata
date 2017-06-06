@@ -2,6 +2,21 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:SE-0156SubtypeExistential.playground">
+   </FileRef>
+   <FileRef
+      location = "group:SE-0148Genericity.playground">
+   </FileRef>
+   <FileRef
+      location = "group:SE-0173SwapAt.playground">
+   </FileRef>
+   <FileRef
+      location = "group:dictionary.playground">
+   </FileRef>
+   <FileRef
+      location = "group:KVC.playground">
+   </FileRef>
+   <FileRef
       location = "group:SE-0163StringRevision.playground">
    </FileRef>
    <FileRef
